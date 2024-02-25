@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//atributos, nombres apellidos direccion  telefono 
+//atributos, nombres apellidos direccion  telefono. 
 
 class Persona{
   protected : string nombres,apellidos,direccion,fecha_de_nacimiento;
